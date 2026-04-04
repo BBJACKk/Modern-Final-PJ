@@ -3,7 +3,6 @@
 **Title:** Prediction of Cardiovascular Disease in Patients with Type 2 Diabetes Mellitus  
 **Course task:** Longitudinal sequence modelling with PyTorch
 
-The central idea is to treat each patient's follow-up history as a short clinical sequence rather than as independent rows. This is appropriate because cardiovascular risk is not determined by a single visit alone; it develops across repeated measurements, comorbidities, and medication exposure over time.
 
 ## 1. Assignment interpretation and assumptions
 
